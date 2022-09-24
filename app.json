@@ -1,13 +1,12 @@
 {
-  "name": "FreeMD",
+  "name": "FARUQ OFC-BOT",
   "description": "Lightweight WhatsApp Bot",
   "repository": "https://github.com/Aiinne/FreeMD",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://telegra.ph/file/a3b2bb4eb56b338f2cbbe.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
   "buildpacks": [
     {"url": "heroku/nodejs"},
-    {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
-    {"url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"},
+    {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"}
     {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"}
   ]
 }
